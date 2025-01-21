@@ -25,6 +25,8 @@ st.markdown("""
     <a href="https://customerchurnpredition.streamlit.app/" target="_blank" style="text-decoration: none; color: white;">
         <button style="background-color: #007bff; border: none; color: white; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
             Visit Project
+
+
         </button>
     </a>
 </div>
